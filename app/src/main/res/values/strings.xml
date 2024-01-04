@@ -1,0 +1,8 @@
+<resources>
+    <string-array name="length_units">
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Millimeters</item>
+    </string-array>
+    <string name="Unitconverter"><![CDATA[<resources>\n    <string-array name=\"length_units\">\n        <item>Meters</item>\n        <item>Centimeters</item>\n        <item>Millimeters</item>\n    </string-array>\n</resources>\n]]></string>
+</resources>
